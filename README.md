@@ -25,3 +25,4 @@ cd Guess-the-Number
 
 ```
 python Game.py
+```
