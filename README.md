@@ -1,24 +1,26 @@
 # Guss-the-Number 
 
-# install 
+
+# Install
+```
+apt update
 ```
 
 ```
- pkg update && pkg upgrade 
- ```
+apt upgrade -y 
+```
 
- ``` 
- pkg install git 
- ```
+``` 
+apt install git -y 
+```
 
- ```
-git clone https://github.com/Oxt4n1nc9b4r/Guss-the-Number/tree/main.git 
-  ```
+``` 
+git clone  git clone https://github.com/Oxt4n1nc9b4r/Guess-the-Number/tree/main.git
+```
 
-  ```
-cd Gess-the-number
-  ```
+# Execution
+``` 
+cd Devil-Eye
+```
 
-  ```
-  
-  
+```
