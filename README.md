@@ -15,7 +15,7 @@ apt install git -y
 ```
 
 ``` 
-git clone  git clone https://github.com/Oxt4n1nc9b4r/Guess-the-Number/tree/main.git
+git clone  https://github.com/Oxt4n1nc9b4r/Guess-the-Number
 ```
 
 # Execution
