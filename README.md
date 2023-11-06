@@ -1,4 +1,4 @@
-# Guss-the-Number 
+#  Guss-the-Number
 
 
 # Install
@@ -20,7 +20,8 @@ git clone  https://github.com/Oxt4n1nc9b4r/Guess-the-Number
 
 # Execution
 ``` 
-cd Devil-Eye
+cd Guess-the-Number
 ```
 
 ```
+python Game.py
